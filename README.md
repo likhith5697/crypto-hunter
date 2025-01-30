@@ -18,10 +18,3 @@ Crypto Hunter is a React-based web application that allows users to get real-tim
 - **Chart.js**: JavaScript charting library to display historical cryptocurrency data.
 - **CoinGecko API**: Provides cryptocurrency data like prices and historical charts.
 
-## Installation
-
-1. **Clone the repository** to your local machine:
-
-   ```bash
-   git clone https://github.com/likhith5697/crypto-hunter.git
-   cd crypto-hunter
